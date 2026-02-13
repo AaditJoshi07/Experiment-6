@@ -1,6 +1,8 @@
 ## Experiment 6: Study of Conditional Statements in Python
 
-**Aim:** To understand and implement various decision-making structures in Python, such as `if`, `elif`, and `else`, to solve logical and mathematical problems.
+**Aim:**
+
+To understand and implement various decision-making structures in Python, such as `if`, `elif`, and `else`, to solve logical and mathematical problems.
 
 ---
 
